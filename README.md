@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisdominguez79
 - 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning how to code in Python,HTML,CSS
+- 🌱 I’m currently learning how to code in Python,HTML,CSS,MySQL
 - 💞️ I’m looking to get an internship and collaborate in coding
 - 📫 How to reach me dominguez0599@gmail.com
 
